@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f416e96d-dd87-45a9-ad4a-6320b3026561" name="Default Changelist" comment="Create PythonProject.py">
-      <changelist_data name="indiran" email="indirakumar2272@gmail.com" />
       <change beforePath="$PROJECT_DIR$/PythonProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonProject.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +12,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="indiran &lt;indirakumar2272@gmail.com&gt;" />
         <option value="INDIRAKUMAR L &lt;75486054+indirakumar0003@users.noreply.github.com&gt;" />
       </list>
     </option>
@@ -79,21 +79,7 @@
       <option name="project" value="LOCAL" />
       <updated>1617774531507</updated>
     </task>
-    <task id="LOCAL-00002" summary="Create PythonProject.py">
-      <created>1617774636689</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1617774636689</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Create PythonProject.py">
-      <created>1617774692804</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1617774692804</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
